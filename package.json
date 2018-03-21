@@ -1,0 +1,24 @@
+{
+  "name": "novas",
+  "version": "0.0.1",
+  "description": "A JavaScript library for building user interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/nova.git"
+  },
+  "keywords": [
+    "nova",
+    "framework",
+    "elm"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/nova/issues"
+  },
+  "homepage": "https://github.com/LiberJe/nova#readme"
+}
